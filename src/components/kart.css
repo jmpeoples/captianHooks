@@ -3,6 +3,11 @@
     margin-top:50px;
 }
 
+.subText{
+  font-size: 14px;
+}
+
+
 .basket{
     display:flex;
     justify-content: space-around;
